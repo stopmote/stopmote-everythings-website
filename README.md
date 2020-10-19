@@ -1,3 +1,3 @@
 # stopmote-everythings-website
 this is my website that is connected to my youtube channel
-https://stopmote.github.io/stopmote-everythings-website/
+https://github.com/stopmote/stopmote-everythings-website/archive/v1.0.zip
